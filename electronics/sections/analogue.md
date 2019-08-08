@@ -44,7 +44,7 @@ $$R= \rho \times \frac{L}{A}$$
 
 If you place your foam sensor in a potential divider configuration with a resistor of a known value, you can work out the resistance of your sensor relative to the other resistor by the voltage across each of them.
 
-### Task - Build an analogue force sensor
+### Task 1 - Build an analogue force sensor
 * Take a small piece of conductive foam and insert two wires into it. Make sure to strip the ends of the wire first! 
 * Use a multimeter to measure the resistance between the two terminals. You should see the resistance drop significantly when you press on the sensor. The harder you press, the further it should drop.  
 * Cover the foam and a small part of the wires with electrical tape to make sure it holds together nicely.
